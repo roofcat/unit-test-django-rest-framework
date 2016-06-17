@@ -5,3 +5,4 @@
 app/*.pyc
 todos/*.pyc
 todos/migrations/*.pyc
+db.sqlite3
