@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+*pyc
+*.pyc
+app/*.pyc
+todos/*.pyc
+todos/migrations/*.pyc
